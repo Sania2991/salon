@@ -1,24 +1,11 @@
-# README
+# Салон_Аленка)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Попробуем написать сайт, для маникюрной студии.
 
-Things you may want to cover:
+* Пользователи
 
-* Ruby version
+* Мастера
 
-* System dependencies
+* Админы
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+и т.д.
